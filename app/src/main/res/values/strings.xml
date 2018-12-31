@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TujuhKeajaibanDunia</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="cardview">CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="piramida">piramida</string>
+    <string name="tentang">tentang</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="sampel_lokasi">sampel lokasi</string>
+    <string name="regional">Regional</string>
+    <string name="sampel_regional">sampel regional</string>
+    <string name="koordinat">Koordinat</string>
+    <string name="sampel_koordinat">sampel koordinat</string>
+    <string name="info">Info</string>
+</resources>
