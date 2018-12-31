@@ -1,2 +1,2 @@
-# AdrPemula-Submit
-Submission Dicoding Android Pemula
+# Dicoding Belajar Android Pemula
+Submission dari Dicoding Android Pemula
